@@ -60,7 +60,7 @@ body{
 .container .card:hover .three .box{
     transform: translateY(-50px);
     box-shadow: 0 10px 40px rgba(0, 0, 0,0.4);
-    background: url(./images/img\ 11.jpg);
+    background: url(./images/wal1.jpg);
     background-size: contain;
 }
 .container .card:hover .four .box{
@@ -84,7 +84,7 @@ body{
     top: -10px;
     right: 30px;
     font-size: 8em;
-    color: rgba(0, 0, 0, 0.249);
+    color: rgba(0, 0, 0, 0.945);
     transition: 0.5s;
     pointer-events: none;
 }
