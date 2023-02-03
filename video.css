@@ -2,10 +2,10 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    background-color: #24252A;
+    background-image: url(./images/wallpaperflare.com_wallpaper\ \(8\).jpg);
 }
 nav{
-    background-color: rgb(215, 17, 17);
+    background-color: transparent;
 }
 li, a, button{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
